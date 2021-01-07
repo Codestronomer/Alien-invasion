@@ -1,2 +1,2 @@
 # Alien-invasion
-A  2D game built Pygame
+A  2D game built with Pygame
